@@ -1,0 +1,10 @@
+Doppler-Ortung - Quellen und Fremdsoftware
+
+Inspiration: https://www.youtube.com/watch?v=UytYrhYLOKI
+Flugdaten: https://www.adsb.lol/ und zugehoerige GitHub-Archive.
+Flugzeugtypen: https://github.com/wiedehopf/tar1090-db
+Gelaende: AWS Terrain Tiles. Karten: Esri; Attribution in der Kartenansicht.
+Leaflet (BSD-2-Clause) und Plotly.js (MIT): Lizenztexte unter
+_internal/dopplertrace/static/vendor/.
+Weitere mitgelieferte Lizenztexte liegen in diesem Ordner.
+Die Standortangabe ist eine experimentelle Schaetzung und kein Genauigkeitsversprechen.
